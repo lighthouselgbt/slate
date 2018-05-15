@@ -1,0 +1,30 @@
+{
+  "name": "slate",
+  "version": "1.0.0",
+  "description": "lighthouse api docs",
+  "main": "build/index.html",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-awspublish": "^3.3.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lighthouselgbt/slate.git"
+  },
+  "keywords": [
+    "doc"
+  ],
+  "author": "imogen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lighthouselgbt/slate/issues"
+  },
+  "homepage": "https://github.com/lighthouselgbt/slate#readme"
+}

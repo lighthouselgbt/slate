@@ -13,14 +13,14 @@ Contact messages have been replaced by **inquiries.**
 		{
 			"id": 1044,
 			"professional_id": 33,
-			"name": "Bravo",
-			"last_name": "-",
-			"message": "Hi Jor-El, I'm a transgender masculine of center Latinx looking for a counselor who can see me past 6:30pm. Are you accepting new clients at this time for that time slot? I also have Blue Cross Blue Shield as my insurance. Please let me know if you need more information from me.",
-			"subject": "Accepting new clients?",
+			"name": "imogen",
+			"last_name": "olsen",
+			"message": "this is the body of my inquiry",
+			"subject": "subject line",
 			"professional_name": "Jor-El",
 			"professional_last_name": "Caraballo",
-			"phone": "3057337080",
-			"email": "bravosophia1@gmail.com",
+			"phone": "3457834695",
+			"email": "test@test.test",
 			"created_at": "2018-02-06T16:07:40.064Z"
 		}
 	],
@@ -53,14 +53,14 @@ q | Search by inquiry and user with [ransack](https://github.com/activerecord-ha
 	"contact_message": {
 		"id": 1044,
 		"professional_id": 33,
-		"name": "Bravo",
-		"last_name": "-",
-		"message": "Hi Jor-El, I'm a transgender masculine of center Latinx looking for a counselor who can see me past 6:30pm. Are you accepting new clients at this time for that time slot? I also have Blue Cross Blue Shield as my insurance. Please let me know if you need more information from me.",
-		"subject": "Accepting new clients?",
+		"name": "imogen",
+		"last_name": "olsen",
+		"message": "this is the body of my inquiry",
+		"subject": "subject line",
 		"professional_name": "Jor-El",
 		"professional_last_name": "Caraballo",
-		"phone": "3057337080",
-		"email": "bravosophia1@gmail.com",
+		"phone": "3457834695",
+		"email": "test@test.test",
 		"created_at": "2018-02-06T16:07:40.064Z"
 	},
 	"meta": {
